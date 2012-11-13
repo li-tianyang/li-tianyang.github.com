@@ -5,6 +5,6 @@ description: ""
 ---
 {% include JB/setup %}
 
-<a href=//li-tianyang.com/><img src=//li-tianyang.com/img/long/lty.jpg alt="Tianyang Li"></a>
+<a href="http://li-tianyang.com/"><img src="http://li-tianyang.com/img/long/lty.jpg" alt="Tianyang Li"></a>
 
 
