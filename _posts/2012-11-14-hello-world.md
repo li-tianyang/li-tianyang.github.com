@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello world!"
+title: "Hello world! <span>e^{i\pi} +1=0</span>"
 description: ""
 category: 
 tags: []
@@ -13,6 +13,5 @@ e^{i\pi} +1=0
 $$
 </div>
 
-Hello world! <span>$e^{i\pi} +1=0$</span>
 
 
