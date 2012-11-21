@@ -7,7 +7,10 @@ tags: []
 ---
 {% include JB/setup %}
 
-Hello world!
-
+<div>
+$$
+e^{i\pi} +1=0
+$$
+</div>
 
 
