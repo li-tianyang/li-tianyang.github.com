@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello world! <span>$e^{i\pi} +1=0$</span>"
+title: "Hello world!"
 description: ""
 category: 
 tags: []
