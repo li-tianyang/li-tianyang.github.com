@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : "<span>Tianyang Li&nbsp</span><span>李天阳<span>"
+title : "<span style="white-space: nowrap;">Tianyang Li&nbsp</span><span style="white-space: nowrap;">李天阳<span>"
 tagline: 
 author :
   name : Tianyang Li
