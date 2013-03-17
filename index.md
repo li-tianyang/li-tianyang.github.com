@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tianyang Li 李天阳"
+title: "Tianyang Li&nbsp&nbsp李天阳"
 ---
 {% include JB/setup %}
 
