@@ -11,7 +11,7 @@ I am currently doing bioinformatics research at [Dr. Xuegong Zhang](http://bioin
 
 Projects that I'm currently working on:
 
-* [Bayesian de novo transcript reconstruction and abundance estimation from RNA-Seq data](https://github.com/tianyang-li/de-novo-rna-seq-quant-1)
+* [*De novo* transcript reconstruction and abundance estimation in eukaryotic RNA-Seq data analysis](https://github.com/tianyang-li/de-novo-rna-seq-quant-1)
 
 * [Statistical etimation a transcript's length from RNA-Seq data](https://github.com/tianyang-li/rna-seq-len-est-0)
 
