@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Bioinformatics"
+description: ""
+---
+{% include JB/setup %}
+
 I am currently doing bioinformatics research at [Dr. Xuegong Zhang](http://bioinfo.au.tsinghua.edu.cn/member/xzhang/XZhang_English.htm)'s [lab](http://bioinfo.au.tsinghua.edu.cn/enarticle/index.html). 
 
 Projects that I'm working on:
