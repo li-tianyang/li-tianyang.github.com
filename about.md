@@ -11,7 +11,7 @@ description: ""
     <img id="ltypic" style="display: inline; height: auto; width: auto; max-width: 100%;" src="http://li-tianyang.com/img/long/lty.jpg" alt="Tianyang Li">
 </a>
 
-I am an undegraduate at [Tsinghua](http://www.tsinghua.edu.cn). Currently, I work on [bioinformatics](./bioinformatics/) at [Dr. Xuegong Zhang](http://bioinfo.au.tsinghua.edu.cn/member/xzhang/XZhang_English.htm)'s [lab](http://bioinfo.au.tsinghua.edu.cn/enarticle/index.html), 
+I am an undegraduate at [Tsinghua](http://www.tsinghua.edu.cn). Currently, I work on [bioinformatics](./research/bioinformatics/) at [Dr. Xuegong Zhang](http://bioinfo.au.tsinghua.edu.cn/member/xzhang/XZhang_English.htm)'s [lab](http://bioinfo.au.tsinghua.edu.cn/enarticle/index.html), 
 and I also work with [Dr. Rui Jiang](http://bioinfo.au.tsinghua.edu.cn/member/ruijiang/english/index.html).
 
 I play the [flute](https://en.wikipedia.org/wiki/Western_concert_flute), 
