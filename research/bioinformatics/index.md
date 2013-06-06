@@ -10,8 +10,11 @@ description: ""
 * [Isoform reconstruction using short RNA-Seq reads by maximum likelihood
   is NP-hard](http://arxiv.org/abs/1305.0916)
 
+<!--
 * [*De novo* transcript reconstruction and abundance estimation in eukaryotic RNA-Seq data analysis](https://github.com/tianyang-li/de-novo-rna-seq-quant-1)
 
 * [Statistical etimation a transcript's length from RNA-Seq data](https://github.com/tianyang-li/rna-seq-len-est-0)
 
 * [Assembly Assisted RNA-Seq Alignment](https://github.com/tianyang-li/aarsa)
+-->
+
