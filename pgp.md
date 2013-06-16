@@ -10,7 +10,7 @@ D5F3B2B6
 </pre>
 
 <pre>
-Tianyang Li (李天阳) <ty@li-tianyang.com>
+Tianyang Li (李天阳) &lt;ty@li-tianyang.com&gt;
 </pre>
 
 <pre>
