@@ -7,6 +7,5 @@ description: ""
 
 # Research
 
-
 * [Bioinformatics](./bioinformatics/)
 
