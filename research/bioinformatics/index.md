@@ -18,7 +18,5 @@ description: ""
 * [Statistical etimation a transcript's length from RNA-Seq data](https://github.com/tianyang-li/rna-seq-len-est-0)
 
 * [Assembly Assisted RNA-Seq Alignment](https://github.com/tianyang-li/aarsa)
-
-* [本科论文](https://github.com/tianyang-li/thuthesis/tree/my-stuff)
 -->
 
