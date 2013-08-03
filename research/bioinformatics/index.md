@@ -8,7 +8,7 @@ description: ""
 # Bioinformatics
 
 <ul>
-<li><a href="http://arxiv.org/abs/1305.0916">Isoform reconstruction using short RNA-Seq reads by maximum likelihood is NP-hard</a></li>
+<li><em>Tianyang Li, Rui Jiang, and Xuegong Zhang.</em> <a href="http://arxiv.org/abs/1305.0916">Isoform reconstruction using short RNA-Seq reads by maximum likelihood is NP-hard.</a> 2013.</li>
 <li style="visibility: hidden;"><a href="./lty-tsinghua-undergrad-thesis.pdf">通过 RNA-Seq 估计转录本长度和辨识剪切异构体的研究 (清华大学本科论文)</a></li>
 </ul>
 
