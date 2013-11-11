@@ -28,7 +28,7 @@ tags: []
 
 因为 "课程讨论" 里面不过滤用户插进去的 JavaScript, 所以有几个讨论导致这个工具不能正常下载
 
-如果遇到别的课的 "课程讨论" 导致下载不成功, [这里](/post-more/2013-11-10-download-tsinghua-wangluoxuetang/kctl-js-injection.html)有一个临时的解决方案. 
+如果遇到别的课的 "课程讨论" 导致下载不成功, [这里](/post-more/2013-11-10-download-tsinghua-wangluoxuetang/kctl-js-injection.html)有一个临时的解决方案 
 
 [欢迎对这个工具进行改进](http://li-tianyang.com/2013/11/10/download-tsinghua-wangluoxuetang/#dev-dl-wlxt)
 
