@@ -17,7 +17,7 @@ tags: []
 
 所有下载内容都在 Firefox 默认的下载目录里面一个叫 wlxt 的目录里面
 
-<img alt="Firefox 默认的下载目录里的 wlxt 目录" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt-start.png" style="display: inline; height: auto; width: auto; max-width: 100%;" title="Firefox 默认的下载目录里的 wlxt 目录">
+<img alt="Firefox 默认的下载目录里的 wlxt 目录" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/dl-dir.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="Firefox 默认的下载目录里的 wlxt 目录">
 
 wlxt 目录里面是每一个课程的目录, 课程名字和目录名字对应的信息在 course\_id.csv 中
 
