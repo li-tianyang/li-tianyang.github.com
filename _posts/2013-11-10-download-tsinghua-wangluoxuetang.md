@@ -16,4 +16,14 @@ tags: []
 
 #### 能不能把文件名保存为正常的文件名?
 
+#### 能不能向这个工具里面增加更多的功能? 
+
+请看[这里](http://li-tianyang.com/2013/11/10/download-tsinghua-wangluoxuetang/#dev-dl-wlxt)
+
+<h4 id="dev-dl-wlxt">我能对这个这个工具的代码进行修改吗?</h4>
+
+[https://github.com/tianyang-li/download-tsinghua-wangluoxuetang](https://github.com/tianyang-li/download-tsinghua-wangluoxuetang)
+
+欢迎 fork 并且用 pull request 来改进这个工具
+
 
