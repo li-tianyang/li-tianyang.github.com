@@ -25,6 +25,15 @@ wlxt 目录里面是每一个课程的目录, 课程名字和目录名字对应�
 
 <img alt="Firefox 默认的下载目录里的 wlxt 目录" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/course-id-csv.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="Firefox 默认的下载目录里的 wlxt 目录">
 
+一个课的目录里面
+
+* kcgg: 课程公告
+* kcxy: 课程信息
+* kcwj: 课程文件
+* jxzy: 教学资源
+* kczy: 课程作业
+* kctl: 课程讨论
+
 ***
 
 ## FAQ
