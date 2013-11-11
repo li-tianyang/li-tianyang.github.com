@@ -18,11 +18,17 @@ tags: []
 
 所有下载内容都在 Firefox 默认的下载目录里面一个叫 wlxt 的目录里面
 
-
+<img alt="Firefox 默认的下载目录里的 wlxt 目录" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt-start.png" style="display: inline; height: auto; width: auto; max-width: 100%;" title="Firefox 默认的下载目录里的 wlxt 目录">
 
 ***
 
 ## FAQ
+
+#### 为什么 "文化素质教育讲座" 这个课的 "课程讨论" 没有下载下来?
+
+因为 "课程讨论" 里面不过滤用户插进去的 JavaScript, 所以有几个讨论导致这个工具不能正常下载
+
+[欢迎对这个工具进行改进](http://li-tianyang.com/2013/11/10/download-tsinghua-wangluoxuetang/#dev-dl-wlxt)
 
 #### \*.csv 文件在 excel 里面打开的时候是乱码怎么办?
 
