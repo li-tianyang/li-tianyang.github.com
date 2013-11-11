@@ -38,9 +38,9 @@ wlxt 目录里面是每一个课程的目录, 课程名字和目录名字对应�
 
 课程公告目录里面是一个 kcgg.csv 和每个课程公告的 .html 文件, .html 文件名和实际课程公告的信息再 kcgg.csv 里面
 
-<img alt="课程公告目录" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/class-dir.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="课程公告目录">
+<img alt="课程公告目录" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/kcgg-dir.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="课程公告目录">
 
-<img alt="kcgg.csv" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/class-dir.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="kcgg.csv">
+<img alt="kcgg.csv" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/kcgg-csv.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="kcgg.csv">
 
 ***
 
