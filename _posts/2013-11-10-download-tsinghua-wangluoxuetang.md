@@ -16,9 +16,25 @@ tags: []
 
 ### 总的下载目录 wlxt
 
+所有下载内容都在 Firefox 默认的下载目录里面一个叫 wlxt 的目录里面
+
+
+
 ***
 
 ## FAQ
+
+#### \*.csv 文件在 excel 里面打开的时候是乱码怎么办?
+
+[http://www.itg.ias.edu/content/how-import-csv-file-uses-utf-8-character-encoding-0](http://www.itg.ias.edu/content/how-import-csv-file-uses-utf-8-character-encoding-0) 有更多的信息
+
+#### \*.html 文件打开后是乱码怎么办?
+
+可以把浏览器的编码换成 UTF-8 就不是乱码了
+
+如果你不知到怎么把浏览器的编码换成 UTF-8, 可以到 [Google](http://google.com) 或者[百度](http://baidu.com) 上面搜
+
+> 换浏览器编码
 
 #### 能不能把文件名保存为正常的文件名?
 
