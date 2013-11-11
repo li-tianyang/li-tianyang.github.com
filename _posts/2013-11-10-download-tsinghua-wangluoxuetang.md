@@ -20,9 +20,15 @@ tags: []
 
 如果你愿意改进的话, 请看[这里](http://li-tianyang.com/2013/11/10/download-tsinghua-wangluoxuetang/#dev-dl-wlxt)
 
-### 能不能让这个工具下载整个网络学堂内容的时间变得更短?
+#### 能不能让这个工具下载整个网络学堂内容的时间变得更短?
 
 目前在下载的过程中没有并行的操作, 所以比较慢
+
+如果你愿意改进的话, 请看[这里](http://li-tianyang.com/2013/11/10/download-tsinghua-wangluoxuetang/#dev-dl-wlxt)
+
+#### 能不能把这个工具的整个用户界面和用户体验做得更好?
+
+我没有在这个上面花太多时间, 所以目前这个工具的整个用户界面和用户体验并不理想
 
 如果你愿意改进的话, 请看[这里](http://li-tianyang.com/2013/11/10/download-tsinghua-wangluoxuetang/#dev-dl-wlxt)
 
