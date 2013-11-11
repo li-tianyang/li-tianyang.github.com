@@ -18,6 +18,14 @@ tags: []
 
 由于不同的系统上对中文用的编码不同, 比如大部分 Linux 都是用的 UTF-8, 但是大部分 Windows 默认的中文编码不是, 所以这里进行折中都用了英文字母和数字作为文件名进行存储, 然后对应的信息在 \*.csv 文件中
 
+如果你愿意改进的话, 请看[这里](http://li-tianyang.com/2013/11/10/download-tsinghua-wangluoxuetang/#dev-dl-wlxt)
+
+### 能不能让这个工具下载整个网络学堂内容的时间变得更短?
+
+目前在下载的过程中没有并行的操作, 所以比较慢
+
+如果你愿意改进的话, 请看[这里](http://li-tianyang.com/2013/11/10/download-tsinghua-wangluoxuetang/#dev-dl-wlxt)
+
 #### 能不能向这个工具里面增加更多的功能? 
 
 请看[这里](http://li-tianyang.com/2013/11/10/download-tsinghua-wangluoxuetang/#dev-dl-wlxt)
