@@ -48,6 +48,13 @@ wlxt 目录里面是每一个课程的目录, 课程名字和目录名字对应�
 
 <img alt="kcwj.csv" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/kcwj-csv.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="kcwj.csv">
 
+课程讨论目录里面是一个 kctl.csv 和每个课程公告的 .html 文件, .html 文件名和实际课程讨论的信息再 kctl.csv 里面
+
+<img alt="课程讨论目录" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/kctl-dir.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="课程讨论目录">
+
+<img alt="kctl.csv" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/kctl-csv.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="kctl.csv">
+
+
 ***
 
 ## FAQ
@@ -68,7 +75,7 @@ wlxt 目录里面是每一个课程的目录, 课程名字和目录名字对应�
 
 可以把浏览器的编码换成 UTF-8 就不是乱码了
 
-如果你不知到怎么把浏览器的编码换成 UTF-8, 可以到 [Google](http://google.com) 或者[百度](http://baidu.com) 上面搜 "换浏览器编码"
+如果你不知到怎么把浏览器的编码换成 UTF-8, 可以到 [Google](http://google.com) 或者[百度](http://baidu.com)上面搜 "换浏览器编码"
 
 #### 能不能把文件名保存为正常的文件名?
 
