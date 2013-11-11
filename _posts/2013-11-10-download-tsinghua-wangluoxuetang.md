@@ -21,11 +21,13 @@ tags: []
 
 wlxt 目录里面是每一个课程的目录, 课程名字和目录名字对应的信息在 course\_id.csv 中
 
-<img alt="Firefox 默认的下载目录里的 wlxt 目录" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/class-list.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="Firefox 默认的下载目录里的 wlxt 目录">
+<img alt="总的下载目录 wlxt" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/class-list.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="总的下载目录 wlxt">
 
-<img alt="Firefox 默认的下载目录里的 wlxt 目录" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/course-id-csv.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="Firefox 默认的下载目录里的 wlxt 目录">
+<img alt="course_id.csv" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/course-id-csv.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="course_id.csv">
 
 一个课的目录里面
+
+<img alt="一个课的目录" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/class-dir.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="一个课的目录">
 
 * kcgg: 课程公告
 * kcxy: 课程信息
