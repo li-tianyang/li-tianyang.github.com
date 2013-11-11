@@ -62,4 +62,8 @@ tags: []
 
 欢迎 fork 并且用 pull request 来改进这个工具
 
+#### 别的问题
+
+欢迎发邮件给李天阳 ([ty@li-tianyang.com](mailto:ty@li-tianyang.com))
+
 
