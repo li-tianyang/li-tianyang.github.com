@@ -79,6 +79,10 @@ wlxt 目录里面是每一个课程的目录, 课程名字和目录名字对应�
 
 [欢迎对这个工具进行改进](http://li-tianyang.com/2013/11/10/download-tsinghua-wangluoxuetang/#dev-dl-wlxt)
 
+#### 为什么没有下载 "课程答疑" 和 "自由讨论区"?
+
+我发现几乎所有的课都不用这两个东西, 所以我就没有管它们
+
 #### \*.csv 文件在 excel 里面打开的时候是乱码怎么办?
 
 [http://www.itg.ias.edu/content/how-import-csv-file-uses-utf-8-character-encoding-0](http://www.itg.ias.edu/content/how-import-csv-file-uses-utf-8-character-encoding-0) 有更多的信息
