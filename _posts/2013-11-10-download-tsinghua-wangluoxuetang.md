@@ -32,9 +32,7 @@ tags: []
 
 可以把浏览器的编码换成 UTF-8 就不是乱码了
 
-如果你不知到怎么把浏览器的编码换成 UTF-8, 可以到 [Google](http://google.com) 或者[百度](http://baidu.com) 上面搜
-
-    换浏览器编码
+如果你不知到怎么把浏览器的编码换成 UTF-8, 可以到 [Google](http://google.com) 或者[百度](http://baidu.com) 上面搜 "换浏览器编码"
 
 #### 能不能把文件名保存为正常的文件名?
 
