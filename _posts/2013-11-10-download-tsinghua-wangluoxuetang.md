@@ -42,6 +42,12 @@ wlxt 目录里面是每一个课程的目录, 课程名字和目录名字对应�
 
 <img alt="kcgg.csv" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/kcgg-csv.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="kcgg.csv">
 
+课程文件目录里面是一个 kcwj.csv 和每个课程公告的 .html 文件, .html 文件名和实际课程文件的信息再 kcwj.csv 里面
+
+<img alt="课程文件目录" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/kcwj-dir.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="课程文件目录">
+
+<img alt="kcwj.csv" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/kcwj-csv.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="kcwj.csv">
+
 ***
 
 ## FAQ
