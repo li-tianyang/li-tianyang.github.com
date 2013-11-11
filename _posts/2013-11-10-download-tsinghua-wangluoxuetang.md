@@ -50,9 +50,13 @@ wlxt 目录里面是每一个课程的目录, 课程名字和目录名字对应�
 
 课程作业目录里面是一个 kczy.csv 和每个课程公告的 .html 文件, .html 文件名和实际课程讨论的信息再 kczy.csv 里面
 
-<img alt="课程作业目录" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/kctl-dir.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="课程作业目录">
+<img alt="课程作业目录" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/kczy-dir.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="课程作业目录">
 
 <img alt="kczy.csv" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/kczy-csv.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="kczy.csv">
+
+ 一个作业目录里面的 neirong.html 是布置作业的网页, pingyue.html 是作业评阅的网页, neirong 是老师提供的作业文件, tijiao 是学生交上去的作业文件, neirong 和 tijiao 这两个文件的实际文件名在 neirong.html 中有
+
+<img alt="课程作业目录" src="/img/posts/2013-11-10-download-tsinghua-wangluoxuetang/dl-wlxt/kctl-hw-dir.jpg" style="display: inline; height: auto; width: auto; max-width: 100%;" title="课程作业目录">
 
 课程讨论目录里面是一个 kctl.csv 和每个课程公告的 .html 文件, .html 文件名和实际课程讨论的信息再 kctl.csv 里面
 
