@@ -4,15 +4,13 @@ title: "Tianyang Li&nbsp;&nbsp;李天阳"
 ---
 {% include JB/setup %}
 
-<!--
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
--->
+<h1>&nbsp;</h1>
 <ul class="research">
     <li><a href="/blog.html">Blog</a></li>
     <li><a href="/research/">Research</a></li>
 </ul>
+<h1>&nbsp;</h1>
+<h1>&nbsp;</h1>
+<h1>&nbsp;</h1>
+<h1>&nbsp;</h1>
 
