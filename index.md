@@ -12,7 +12,7 @@ title: "Tianyang Li&nbsp;&nbsp;李天阳"
 </ul>
 -->
 <ul class="research">
-    <li><a href="/posts.html">Blog</a></li>
+    <li><a href="/blog.html">Blog</a></li>
     <li><a href="/research/">Research</a></li>
 </ul>
 
