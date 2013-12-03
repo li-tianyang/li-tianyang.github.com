@@ -10,7 +10,4 @@ title: "Tianyang Li&nbsp;&nbsp;李天阳"
     <li><a href="/research/">Research</a></li>
 </ul>
 <h1>&nbsp;</h1>
-<h1>&nbsp;</h1>
-<h1>&nbsp;</h1>
-<h1>&nbsp;</h1>
 
