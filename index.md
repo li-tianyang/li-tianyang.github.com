@@ -7,7 +7,7 @@ title: "Tianyang Li&nbsp;&nbsp;李天阳"
 <br>
 <br>
 <ul class="research">
-    <li><a href="/blog.html">Blog</a><br><br></li>
+    <li><a href="/blog.html">Blog</a><br><br><br></li>
     <li><a href="/research/">Research</a><br><br></li>
 </ul>
 <br>
