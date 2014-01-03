@@ -19,8 +19,7 @@ where I also worked with [Dr. Rui Jiang](http://bioinfo.au.tsinghua.edu.cn/membe
 I play the [flute](https://en.wikipedia.org/wiki/Western_concert_flute), 
 and enjoy works by composers from [Bach](http://imslp.org/wiki/Partita_for_solo_Flute,_BWV_1013_%28Bach,_Johann_Sebastian%29) to [Hindemith](http://books.google.com/books/about/8_St%C3%BCcke_f%C3%BCr_Fl%C3%B6te_allein.html?id=kHQHAQAAMAAJ).
 
-<!--<div style="display:none;">-->
-<div>
+<div style="display:none;">
     <ul>
         <li>
             <figure>
