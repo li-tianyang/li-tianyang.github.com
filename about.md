@@ -17,7 +17,7 @@ I was an undergraduate student at [Tsinghua](http://www.tsinghua.edu.cn) in the 
 where I also worked with [Dr. Rui Jiang](http://bioinfo.au.tsinghua.edu.cn/member/ruijiang/english/index.html).
 
 I play the [flute](https://en.wikipedia.org/wiki/Western_concert_flute), 
-and enjoy works by composers from [Bach](http://imslp.org/wiki/Partita_for_solo_Flute,_BWV_1013_%28Bach,_Johann_Sebastian%29) to [Hindemith](http://books.google.com/books/about/8_St%C3%BCcke_f%C3%BCr_Fl%C3%B6te_allein.html?id=kHQHAQAAMAAJ).
+and enjoy works by composers from [Bach](http://imslp.org/wiki/Partita_for_solo_Flute,_BWV_1013_%28Bach,_Johann_Sebastian%29) to [Debussy](hhttp://imslp.org/wiki/Syrinx_(Debussy,_Claude)).
 
 <div style="display:none;">
     <ul>
