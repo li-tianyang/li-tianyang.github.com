@@ -7,9 +7,9 @@ description: ""
 
 # Research
 
-## Statistical Machine Learning
+### Statistical Machine Learning
 
 * Tianyang Li, Harsh Pareek, Pradeep Ravikumar, Dhruv Balwada, Kevin Speer. **[Tracking with ranked signals](http://li-tianyang.com/research/papers/uai-2015-tracking.pdf)**. UAI 2015. *(selected for plenary presentation)*
 
-## [Bioinformatics](./bioinformatics/)
+### [Bioinformatics](./bioinformatics/)
 
