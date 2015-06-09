@@ -12,9 +12,7 @@ description: ""
 </a>
 
 I am a graduate student in the [Department of Computer Science](http://cs.utexas.edu) at [The University of Texas at Austin](http://utexas.edu).
-
-I was an undergraduate student at [Tsinghua](http://www.tsinghua.edu.cn) in the [Department of Automation](http://www.au.tsinghua.edu.cn/) from 2009 to 2013. At Tsinghua, I worked on [bioinformatics](./research/bioinformatics/) at [Dr. Xuegong Zhang](http://bioinfo.au.tsinghua.edu.cn/member/xzhang/XZhang_English.htm)'s [lab](http://bioinfo.au.tsinghua.edu.cn/enarticle/index.html), 
-where I also worked with [Dr. Rui Jiang](http://bioinfo.au.tsinghua.edu.cn/member/ruijiang/english/index.html).
+I was an undergraduate student at [Tsinghua](http://www.tsinghua.edu.cn) in the [Department of Automation](http://www.au.tsinghua.edu.cn/) from 2009 to 2013.  
 
 I play the [flute](https://en.wikipedia.org/wiki/Western_concert_flute), 
 and enjoy works by composers from [Bach](http://imslp.org/wiki/Partita_for_solo_Flute,_BWV_1013_%28Bach,_Johann_Sebastian%29) to [Debussy](http://imslp.org/wiki/Syrinx_(Debussy,_Claude)).
