@@ -15,7 +15,7 @@ I am a graduate student in the [Department of Computer Science](http://cs.utexas
 I was an undergraduate student at [Tsinghua](http://www.tsinghua.edu.cn) in the [Department of Automation](http://www.au.tsinghua.edu.cn/) from 2009 to 2013.  
 
 I play the [flute](https://en.wikipedia.org/wiki/Western_concert_flute), 
-and enjoy works by composers from [Bach](http://imslp.org/wiki/Partita_for_solo_Flute,_BWV_1013_%28Bach,_Johann_Sebastian%29) to [Debussy](http://imslp.org/wiki/Syrinx_(Debussy,_Claude)).
+and enjoy works by composers from [Bach](http://imslp.org/wiki/Partita_in_A_minor,_BWV_1013_(Bach,_Johann_Sebastian)) to [Debussy](http://imslp.org/wiki/Syrinx_(Debussy,_Claude)).
 
 <div style="display:none;">
     <ul>
