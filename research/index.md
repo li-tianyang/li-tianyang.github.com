@@ -7,7 +7,7 @@ description: ""
 
 # Research
 
-### [Statistical Machine Learning](./)
+### [Machine Learning](./)
 
 * Tianyang Li, Adarsh Prasad, Pradeep Ravikumar. **[Fast Classification Rates for High-dimensional Gaussian Generative Models](./papers/nips-2015-gaussian-classification.pdf)**. *NIPS 2015*.
 
