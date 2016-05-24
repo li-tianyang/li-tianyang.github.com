@@ -11,7 +11,7 @@ description: ""
 
 * Tianyang Li, Adarsh Prasad, Pradeep Ravikumar. <br> **[Fast Classification Rates for High-dimensional Gaussian Generative Models](./papers/nips-2015-gaussian-classification.pdf)**. <br> *NIPS 2015*.
 
-* Tianyang Li, Harsh Pareek, Pradeep Ravikumar, Dhruv Balwada, Kevin Speer. **[Tracking with ranked signals](./papers/uai-2015-tracking.pdf)**. *UAI 2015*. (selected for plenary presentation)
+* Tianyang Li, Harsh Pareek, Pradeep Ravikumar, Dhruv Balwada, Kevin Speer. <br> **[Tracking with ranked signals](./papers/uai-2015-tracking.pdf)**. <br> *UAI 2015*. (selected for plenary presentation)
 
 ### [Bioinformatics](./bioinformatics/)
 
