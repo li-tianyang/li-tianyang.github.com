@@ -9,7 +9,7 @@ description: ""
 
 ### [Machine Learning](./)
 
-* Tianyang Li, Xinyang Yi, Constantine Caramanis, Pradeep Ravikumar. <br> **Minimax Gaussian Classification & Clustering**. <br> *AISTATS 2017*. 
+* Tianyang Li, Xinyang Yi, Constantine Caramanis, Pradeep Ravikumar. <br> **[Minimax Gaussian Classification & Clustering](./papers/aistats-2017-minimax-gaussian-classification-clustering.pdf)**. <br> *AISTATS 2017*. 
 
 * Tianyang Li, Adarsh Prasad, Pradeep Ravikumar. <br> **[Fast Classification Rates for High-dimensional Gaussian Generative Models](./papers/nips-2015-gaussian-classification.pdf)**. <br> *NIPS 2015*.
 
