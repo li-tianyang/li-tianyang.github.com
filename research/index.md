@@ -9,6 +9,8 @@ description: ""
 
 ### [Machine Learning](./)
 
+* Tianyang Li, Liu Liu, Anastasios Kyrillidis, Constantine Caramanis. <br> **[Statistical inference using SGD](https://arxiv.org/abs/1705.07477)**. <br> *[https://arxiv.org/abs/1705.07477](https://arxiv.org/abs/1705.07477)*.
+
 * Tianyang Li, Xinyang Yi, Constantine Caramanis, Pradeep Ravikumar. <br> **[Minimax Gaussian Classification & Clustering](./papers/aistats-2017-minimax-gaussian-classification-clustering.pdf)**. <br> *20th International Conference on Artificial Intelligence and Statistics (AISTATS 2017)*. 
 
 * Tianyang Li, Adarsh Prasad, Pradeep Ravikumar. <br> **[Fast Classification Rates for High-dimensional Gaussian Generative Models](./papers/nips-2015-gaussian-classification.pdf)**. <br> *Advances in Neural Information Processing 28 (NIPS 2015)*.
