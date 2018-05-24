@@ -9,6 +9,8 @@ description: ""
 
 ### [Machine Learning](./)
 
+* Tianyang Li, Anastasios Kyrillidis, Liu Liu, Constantine Caramanis. <br> **[Approximate Newton-based statistical inference using only stochastic gradients](https://arxiv.org/abs/1805.08920)**. <br> 
+
 * Tianyang Li, Liu Liu, Anastasios Kyrillidis, Constantine Caramanis. <br> **[Statistical inference using](./papers/aaai-2018-sgd-statistical-inference.pdf) [SGD](https://arxiv.org/abs/1705.07477)**. <br> *The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18)*. (selected for oral presentation)
 
 * Tianyang Li, Xinyang Yi, Constantine Caramanis, Pradeep Ravikumar. <br> **[Minimax Gaussian Classification & Clustering](./papers/aistats-2017-minimax-gaussian-classification-clustering.pdf)**. <br> *20th International Conference on Artificial Intelligence and Statistics (AISTATS 2017)*. 
