@@ -9,7 +9,14 @@ description: ""
 
 ### [Machine Learning](./)
 
+
+
 * Tianyang Li, Anastasios Kyrillidis, Liu Liu, Constantine Caramanis. <br> **[Approximate Newton-based statistical inference using only stochastic gradients](https://arxiv.org/abs/1805.08920)**. <br> 
+
+
+* Liu Liu, Yanyao Shen, Tianyang Li, Constantine Caramanis. <br> **[High Dimensional Robust Sparse Regression](https://arxiv.org/abs/1805.11643)**. <br> 
+
+
 
 * Tianyang Li, Liu Liu, Anastasios Kyrillidis, Constantine Caramanis. <br> **[Statistical inference using](./papers/aaai-2018-sgd-statistical-inference.pdf) [SGD](https://arxiv.org/abs/1705.07477)**. <br> *The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18)*. (selected for oral presentation)
 
