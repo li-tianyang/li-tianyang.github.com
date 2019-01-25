@@ -10,6 +10,8 @@ description: ""
 ### [Machine Learning](./)
 
 
+* Liu Liu, Tianyang Li, Constantine Caramanis. <br> **[High Dimensional Robust Estimation of Sparse Models via Trimmed Hard Thresholding](https://arxiv.org/abs/1901.08237)**. <br> 
+
 
 * Tianyang Li, Anastasios Kyrillidis, Liu Liu, Constantine Caramanis. <br> **[Approximate Newton-based statistical inference using only stochastic gradients](https://arxiv.org/abs/1805.08920)**. <br> 
 
